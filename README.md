@@ -1,3 +1,3 @@
 # DRDO_Intern
 
-Work done during summer 2019 internship at Scientific Analysis Group(SAG), DRDO, Civil Lines, New Delhi.
+Work done during Summer 2019 Internship during the period June-July 2019 at Scientific Analysis Group(SAG), DRDO, Civil Lines, New Delhi.
